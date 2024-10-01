@@ -11,6 +11,7 @@ alloMedia is a full-stack home delivery service application built using MongoDB,
 - [Running the Project](#running-the-project)
 - [Environment Variables](#environment-variables)
 - [Testing](#testing)
+- [Project Structure](#project-structure)
 - [Contribution](#contribution)
 
 ## Features
@@ -181,8 +182,9 @@ npm test
 
 ## Running the Project
 - The application runs on **localhost:5000** by default.
-- You can access the API routes at **http://localhost:5000/api/auth/**.
-
+- You can access the API routes at **http://localhost:5000/api/
+auth/**.
+- You can use Postman or any other API client to test the endpoints.
 ## Environment Variables
 Make sure to configure the following environment variables in your `.env` file:
 
